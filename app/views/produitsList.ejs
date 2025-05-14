@@ -3,7 +3,7 @@
     <h1>Liste des produits </h1>
 <ul class="cards">
    <% for (const produitGarment of produitsList) {%>
-    <li class="cards"><a href="/produitdetails/<%=produitGarment.id %>"><%= produitGarment.nom %></a></li>
+    <li class="card"><a href="/produitdetails/<%=produitGarment.id %>"><%= produitGarment.nom %></a></li>
    <% } %>
 </ul>
 
