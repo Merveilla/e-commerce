@@ -7,8 +7,8 @@ const router = require("./app/routes/routes");
  
  
 // crée un port
-// const PORT = 3000;
-const PORT = process.env.PORT || 3000;
+// const PORT = 4000;
+const PORT = process.env.PORT || 4000;
  
 //Pour utiliser la méthode Router()
 app.use(router);
@@ -19,7 +19,7 @@ app.set('view engine' , 'ejs');
 app.set('views', __dirname + '/app/views') ;
 
 // Trouver le fiché
-// app.use(express.static(_dirame +'/public'))
+app.use(express.static(__dirname +'/public'))
  
 // fonction qui demarera l'application lorsque le port est solicité
 app.listen(PORT , ()=>{

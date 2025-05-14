@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nom": "T-shirt homme",
+    "description": "Un t-shirt en coton blanc classique pour homme",
+    "price": 19.99,
+    "niveau": "Débutant",
+    "categorie": "Homme",
+    "image": "/images/pho1.webp"
+  },
+  {
+    "id": 2,
+    "nom": "Chemise homme",
+    "description": "Chemise en lin légère, parfaite pour l'été",
+    "price": 39.99,
+    "niveau": "Intermédiaire",
+    "categorie": "Homme",
+    "image": "/images/pho2.webp"
+  },
+  {
+    "id": 3,
+    "nom": "Jean femme",
+    "description": "Jean bleu slim fit pour femme",
+    "price": 49.99,
+    "niveau": "Intermédiaire",
+    "categorie": "Femme",
+    "image": "/images/pho4.webp"
+  },
+  {
+    "id": 4,
+    "nom": "Robe été femme",
+    "description": "Robe légère en coton, idéale pour l'été",
+    "price": 29.99,
+    "niveau": "Débutant",
+    "categorie": "Femme",
+    "image": "/images/pho5.webp"
+  },
+  {
+    "id": 5,
+    "nom": "Basket enfant",
+    "description": "Chaussures de sport confortables pour enfant",
+    "price": 29.99,
+    "niveau": "Avancé",
+    "categorie": "Enfant",
+    "image": "/images/pho7.webp"
+  },
+  {
+    "id": 6,
+    "nom": "T-shirt enfant",
+    "description": "Un t-shirt coloré pour les petits, en coton doux",
+    "price": 15.99,
+    "niveau": "Débutant",
+    "categorie": "Enfant",
+    "image": "/images/pho6.webp"
+  }
+]
+
