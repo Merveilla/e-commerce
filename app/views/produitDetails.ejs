@@ -1,8 +1,10 @@
 <%- include('partials/header.ejs') %>
 
     <h1><%= produitSearch.nom %></h1>
+    <img src="<%= produitSearch.image %>" alt="<%= produitSearch.nom %>" width="180">
+     <p class="produitInfos">Nom : <%= produitSearch.nom %> </p>
     <p class="produitInfos">Description : <%= produitSearch.description %> </p>
-     <p class="produitInfos">Prix : <%= produitSearch.price %> </p>
+     <p class="produitInfos">Prix : <%= produitSearch.price %> € </p>
      <p class="produitInfos">Catégorie : <%= produitSearch.categorie %> </p>
-     <p class="produitInfos">Image : <%= produitSearch.image %> </p>
+    <p class="produitInfos">Niveau : <%= produitSearch.niveau %> </p>
     <%- include('partials/footer.ejs') %> %>

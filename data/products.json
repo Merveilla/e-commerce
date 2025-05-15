@@ -2,11 +2,11 @@
   {
     "id": 1,
     "nom": "T-shirt homme",
-    "description": "Un t-shirt en coton blanc classique pour homme",
+    "description": "Un t-shirt en coton noir classique pour homme",
     "price": 19.99,
     "niveau": "Débutant",
     "categorie": "Homme",
-    "image": "/images/pho1.webp"
+    "image": "/images/T-shirt homme.webp"
   },
   {
     "id": 2,
@@ -15,34 +15,34 @@
     "price": 39.99,
     "niveau": "Intermédiaire",
     "categorie": "Homme",
-    "image": "/images/pho2.webp"
+    "image": "/images/Chemise homme.webp"
   },
   {
     "id": 3,
     "nom": "Jean femme",
-    "description": "Jean bleu slim fit pour femme",
+    "description": "Jean bleu pour femme",
     "price": 49.99,
     "niveau": "Intermédiaire",
     "categorie": "Femme",
-    "image": "/images/pho4.webp"
+    "image": "/images/Jean femme.webp"
   },
   {
     "id": 4,
     "nom": "Robe été femme",
-    "description": "Robe légère en coton, idéale pour l'été",
+    "description": "Robe légère idéale pour l'été",
     "price": 29.99,
     "niveau": "Débutant",
     "categorie": "Femme",
-    "image": "/images/pho5.webp"
+    "image": "/images/Robe été femme.webp"
   },
   {
     "id": 5,
     "nom": "Basket enfant",
-    "description": "Chaussures de sport confortables pour enfant",
+    "description": "Chaussures confortables pour enfant",
     "price": 29.99,
     "niveau": "Avancé",
     "categorie": "Enfant",
-    "image": "/images/pho7.webp"
+    "image": "/images/Basket enfant.webp"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 15.99,
     "niveau": "Débutant",
     "categorie": "Enfant",
-    "image": "/images/pho6.jpg"
+    "image": "/images/T-shirt enfant.webp"
   }
 ]
 
